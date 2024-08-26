@@ -22,7 +22,7 @@ This software is for ethical use only.
 
 ## Support Our Vision 🌟
 
-**Donation Address (ETH/BNB/ERC20/BEP20):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
+**Donation Address (ETH/BNB/ERC20/BEP20):** `0x5aCFBEDcf8135B13C2644E7E25bCB84ab47AA7A1`
 
 ## Engage & Contribute 🌐
 
